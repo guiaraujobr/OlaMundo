@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro repositorio versionado de git e githubb
+# Olá, Mundo
+ Primeiro repositorio versionado de git e github 
